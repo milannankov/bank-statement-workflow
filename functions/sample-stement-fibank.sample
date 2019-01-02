@@ -1,0 +1,4 @@
+reference|datetime|valuedate|debit|credit|trname|contragent|rem_i|rem_ii|rem_iii
+S15ZCMG181831292|02/07/2018|27/06/2018|.51||Плащане / отмяна ПОС|BGN 100|IZVLECHENIE PO POSHTATA SOFIA BGR|4***3345|Плащане ПОС
+S15ZCMG181902443|09/07/2018|04/07/2018||160|Плащане / отмяна ПОС|EUR 16000| London GB|4***3345|Получаване на сума по карта
+S15ZCMG181902444|09/07/2018|04/07/2018|1.6||Такси картови операции|EUR 16000| London GB|4***3345|Такса плащане ПОС
