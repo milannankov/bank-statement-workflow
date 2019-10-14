@@ -37,7 +37,7 @@ function transformStatementLine(line) {
     let rem1 = columns[columnIndices.rem_i];
     let rem2 = columns[columnIndices.rem_ii];
     let rem3 = columns[columnIndices.rem_iii];
-    let combined = contragent + " " + rem1 + " " + rem2 + " " + rem3;
+    let combined = transactionName + "" + contragent + " " + rem1 + " " + rem2 + " " + rem3;
 
     let newLine = [
         dateTime.format("YYYY-MM-DD"),
