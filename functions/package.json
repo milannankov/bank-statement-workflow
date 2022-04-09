@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/milannankov/serverless-data-transformation-part1#readme",
   "dependencies": {
-    "moment": "^2.22.2"
+    "moment": "^2.29.2"
   }
 }
